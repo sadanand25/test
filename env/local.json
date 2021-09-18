@@ -1,0 +1,9 @@
+{
+  "profileName": "foxtel",
+  "stage": "dev",
+  "region": "ap-southeast-2",
+  "accountNumber": "216535245878",
+  "conversationalLogsBucketArn": "arn:aws:s3:::dev-ftacel-fire-lex-ap-southeast-2-216535245878",
+  "connectArn": "arn:aws:connect:ap-southeast-2:216535245878:instance/b872241f-6963-49df-99ee-ceef49cacc43",
+  "roleArn": "arn:aws:iam::216535245878:role/dev-ftacel-fire-ap-southeast-2-lexrole"
+}

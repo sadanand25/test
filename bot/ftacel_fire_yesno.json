@@ -1,0 +1,66 @@
+{
+  "name": "ftacel-fire-yesno",
+  "description": "Fetches a yes or not response from the customer",
+  "localeId": "en_AU",
+  "voice": "Olivia",
+  "productionAlias": "PROD",
+  "challengerAlias": "CHALLENGER",
+  "detectSentiment": false,
+  "idleSessionTTLInSeconds": 60,
+  "confidenceThreshold": 0.4,
+  "intents": [
+    {
+      "name": "Yes",
+      "description": "Customer says yes",
+      "utterances": [
+        "Yes",
+        "1",
+        "Yep",
+        "OK",
+        "Ya",
+        "One",
+        "Good",
+        "Proceed",
+        "Positive",
+        "Correct",
+        "That is correct",
+        "Indeed"
+      ],
+      "tests": [
+        "Yep",
+        "Yes",
+        "1",
+        "Good",
+        "One",
+        "That is correct"
+      ]
+    },
+    {
+      "name": "No",
+      "description": "Customer says no",
+      "utterances": [
+        "No",
+        "2",
+        "Bad",
+        "Two",
+        "Wrong",
+        "Nah",
+        "Nup",
+        "Umm",
+        "Err",
+        "What",
+        "Negative",
+        "Incorrect",
+        "Not correct",
+        "That is not correct"
+      ],
+      "tests": [
+        "No that is not correct",
+        "Nah",
+        "Nup",
+        "2",
+        "Umm err"
+      ]
+    }
+  ]
+}

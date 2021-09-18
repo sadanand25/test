@@ -1,0 +1,9 @@
+{
+  "stage": "tcsdev",
+  "region": "ap-southeast-2",
+  "roleArn": "arn:aws:iam::sdfsd78296209:role/dev-lexrole",
+  "accountNumber": "dsfsd678296209",
+  "conversationalLogsBucketArn": "arn:aws:s3:::devsdfsdf0678296209",
+ "connectArn": "arn:aws:connect:ap-southeast-2:sdfsf0678296209:instance/TBA",
+  "roleArn": "arn:aws:iam::sfds678296209:role/dev-lexrole"
+}

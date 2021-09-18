@@ -1,9 +1,0 @@
-{
-  //"stage": "tcsdev",
-  "region": "ap-southeast-2",
-  "roleArn": "arn:aws:iam::440678296209:role/tcsdev-ftacel-fire-ap-southeast-2-lexrole",
-  "accountNumber": "440678296209",
-  "conversationalLogsBucketArn": "arn:aws:s3:::tcsdev-ftacel-fire-lex-ap-southeast-2-440678296209",
- // "connectArn": "arn:aws:connect:ap-southeast-2:440678296209:instance/TBA",
-  "roleArn": "arn:aws:iam::440678296209:role/tcsdev-ftacel-fire-ap-southeast-2-lexrole"
-}
